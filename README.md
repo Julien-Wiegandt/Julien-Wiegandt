@@ -1,14 +1,19 @@
 ### 👋 Hi there
 
 ```
-I am 22 years old, I am currently doing a double degree at Polytech Montpellier, France, and at the University of Sherbrooke in Canada.
+I am 22 years old, I am currently doing a double degree at Polytech Montpellier,
+France, and at the University of Sherbrooke in Canada.
 
-I am passionate about computer science and the beautiful projects that go with them. I am also a sportsman and adventurer; indeed, I practice running, swimming and tennis. Furthermore, I have lived in many countries such as Tahiti, Democratic Republic of Congo and New Caledonia.
+I am passionate about computer science and the beautiful projects that go with them.
+I am also a sportsman and adventurer; indeed, I practice running, swimming and tennis. Furthermore, I have lived in many countries such as Tahiti, Democratic Republic of Congo and New Caledonia.
 
 Sport and the discovery of new cultures have allowed me to surpass myself to achieve my goals collectivaly and individually.
 ```
 
 ### 📱 Technology stack
+
+<div style="display: flex; justify-content: space-around;">
+<div style="width: 250px;">
 
 #### Programming language
 
@@ -20,6 +25,9 @@ Sport and the discovery of new cultures have allowed me to surpass myself to ach
 - HTML CSS
 ```
 
+</div>
+<div style="width: 250px;">
+
 #### Frameworks
 
 ```
@@ -29,6 +37,9 @@ Sport and the discovery of new cultures have allowed me to surpass myself to ach
 - Django
 - Android
 ```
+
+</div>
+</div>
 
 #### Database
 
