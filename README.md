@@ -11,6 +11,23 @@ Furthermore, I have lived in many countries such as Tahiti, Democratic Republic 
 Sport and the discovery of new cultures have allowed me to surpass myself to achieve my goals collectivaly and individually.
 ```
 
+### 🎓 Education
+
+```
+🟥🍁🟥UNIVERSITY OF SHERBROOKE – CANADA | 2021/2022
+One year of master's degree in Software Engineering.
+```
+
+```
+🟦⬜🟥POLYTECH – MONTPELLIER, FRANCE | 2019/2022
+Selective Engineering School for an engineering degree in Computer Science & Management.
+```
+
+```
+🟦⬜🟥UNIVERSITY INSTITUTE OF TECHNOLOGY - Toulouse, France | 2017-2019
+Associate degree in Computer Science & Management.
+```
+
 ### 📱 Technology stack
 
 <div style="display: flex; justify-content: space-around;">
@@ -68,24 +85,7 @@ Sport and the discovery of new cultures have allowed me to surpass myself to ach
 </div>
 </div>
 
-### Education
-
-```
-🟥🍁🟥UNIVERSITY OF SHERBROOKE – CANADA | 2021/2022
-One year of master's degree in Software Engineering.
-```
-
-```
-🟦⬜🟥POLYTECH – MONTPELLIER, FRANCE | 2019/2022
-Selective Engineering School for an engineering degree in Computer Science & Management.
-```
-
-```
-🟦⬜🟥UNIVERSITY INSTITUTE OF TECHNOLOGY - Toulouse, France | 2017-2019
-Associate degree in Computer Science & Management.
-```
-
-### Main professional experiences
+### 🌱 Main professional experiences
 
 ---
 
