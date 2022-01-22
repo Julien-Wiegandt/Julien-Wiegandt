@@ -5,7 +5,8 @@ I am 22 years old, I am currently doing a double degree at Polytech Montpellier,
 France, and at the University of Sherbrooke in Canada.
 
 I am passionate about computer science and the beautiful projects that go with them.
-I am also a sportsman and adventurer; indeed, I practice running, swimming and tennis. Furthermore, I have lived in many countries such as Tahiti, Democratic Republic of Congo and New Caledonia.
+I am also a sportsman and adventurer; indeed, I practice running, swimming and tennis.
+Furthermore, I have lived in many countries such as Tahiti, Democratic Republic of Congo and New Caledonia.
 
 Sport and the discovery of new cultures have allowed me to surpass myself to achieve my goals collectivaly and individually.
 ```
@@ -40,6 +41,8 @@ Sport and the discovery of new cultures have allowed me to surpass myself to ach
 
 </div>
 </div>
+<div style="display: flex; justify-content: space-around;">
+<div style="width: 250px;">
 
 #### Database
 
@@ -48,6 +51,9 @@ Sport and the discovery of new cultures have allowed me to surpass myself to ach
 - PostGreSQL
 - MongoDB
 ```
+
+</div>
+<div style="width: 250px;">
 
 #### Others
 
@@ -58,6 +64,9 @@ Sport and the discovery of new cultures have allowed me to surpass myself to ach
 - UML
 - AWS
 ```
+
+</div>
+</div>
 
 ### Education
 
