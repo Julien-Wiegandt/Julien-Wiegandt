@@ -51,7 +51,7 @@ Associate degree in Computer Science & Management.
 ```
 - React
 - Vue.js
-- Express.js
+- Node.js
 - Django
 - Android
 ```
@@ -77,7 +77,7 @@ Associate degree in Computer Science & Management.
 ```
 - Git
 - Docker
-- Redmine
+- Agile
 - UML
 - AWS
 ```
