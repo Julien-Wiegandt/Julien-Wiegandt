@@ -1,8 +1,8 @@
 ### 👋 Hi there
 
 ```
-I am 22 years old, I am currently doing a double degree at Polytech Montpellier,
-France, and at the University of Sherbrooke in Canada.
+I am 24 years old, I am an engineer in Computer Science and Management and Master in Software Engineering.
+I am currently working in the start-up Waalaxy in Montpellier, France.
 
 I am passionate about computer science and the beautiful projects that go with them.
 I am also a sportsman and adventurer; indeed, I practice running, swimming and tennis.
@@ -79,13 +79,21 @@ Associate degree in Computer Science & Management.
 - Docker
 - Agile
 - UML
-- AWS
+- Kafka
+- Redis
 ```
 
 </div>
 </div>
 
 ### 🌱 Main professional experiences
+
+---
+
+**WAALAXY** in Montpellier, France | Since May 2022 👽
+
+Currently working as a fullstack web developer on the LinkedIn prospecting application Waalaxy.
+I'm in charge of implementing functionalities and bug fixes on the entire multi-service architecture based on **MERN stack**.
 
 ---
 
