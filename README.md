@@ -234,7 +234,7 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
 |---|---|---|
 | Université de Sherbrooke (Québec, Canada) | M.Sc. Software Engineering *(double degree)* | 2021–2022 |
 | Polytech Montpellier | Engineering Degree — CS & Management *(double degree)* | 2019–2022 |
-| IUT de Béziers | 2-year Computer Science Degree (DUT) | 2017–2019 |
+| IUT de Blagnac | 2-year Computer Science Degree (DUT) | 2017–2019 |
 
 <br/>
 
