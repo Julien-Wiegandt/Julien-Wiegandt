@@ -23,15 +23,15 @@ I'm a **Founding Engineer & Co-founder** of [Kawaak](https://kawaak.com) — an 
 
 I'm also **Founder & CEO** of [Keypop](https://www.keypop.io) (AI-powered keyboard shortcuts desktop app) and [Forevr](https://www.forevr.fr) (digital memorial platform with QR-engraved plaques).
 
-Before that, 2.5 years as a **Full-stack Engineer** at **Waalaxy** (LinkedIn prospecting platform, **+1 million users**, team of 16 engineers) where I owned and shipped several critical product features: an email prospecting service, a vector-search-based lead discovery system (Pinecone), and a native HubSpot integration — inside a high-throughput, event-driven micro-services architecture (Kafka).
+Before that, 3 years as a **Full-stack Engineer** at **Waalaxy** (LinkedIn prospecting platform, **+1 million users**, team of 16 engineers) where I owned and shipped several critical product features: an email prospecting service, a vector-search-based lead discovery system (Pinecone), and a native HubSpot integration — inside a high-throughput, event-driven micro-services architecture (Kafka).
 
-I'm comfortable across the full stack: from system design and API architecture to UI animations and DX. I write **strict TypeScript**, care about type-safe end-to-end systems, and ship products that hold at scale.
+I'm comfortable across the full stack: from system design and API architecture to UI animations and product quality. I write **strict TypeScript**, care about type-safe end-to-end systems, and ship products that hold at scale.
 
 <br/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Philosophy" width="25" /> Core philosophy
 
-> Writing code is easy. Shipping a product that users love and that holds in production is the hard part.
+> I don't ship features. I ship products that work, scale, and last.
 
 I think in terms of **ownership**: I'm not just the person who writes the feature — I'm responsible for the architecture decision behind it, the monitoring after it ships, and the user feedback it generates. This is what "founding engineer" means to me.
 
@@ -46,7 +46,8 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
       <p><em>"Turn your expertise into LinkedIn posts that actually perform — and get paid for it."</em></p>
       <p>
         <strong>+23K users · +€200K ARR</strong><br/>
-        Adopted by PayFit, Canva, Notion
+        Adopted by PayFit, Canva, Notion<br/>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="16" height="16" /> 4.8/5 on 150+ Chrome Store & G2 reviews
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -75,7 +76,7 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
       <p><em>"Automate your LinkedIn and email prospecting. No technical skills required."</em></p>
       <p>
         <strong>+1M users · team of 16 engineers</strong><br/>
-        4.8/5 on 2,000+ Chrome Store & G2 reviews
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="16" height="16" /> 4.8/5 on 2,000+ Chrome Store & G2 reviews
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -252,8 +253,8 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
 > Public commits are only a fraction of my actual activity.
 
 <div align="center">
-  <img src="https://github-readme-stats-rouge-eight.vercel.app/api?username=Julien-Wiegandt&hide=stars,issues,contribs&show=lines_changed,github_actions&theme=dark&hide_border=true" height="200" />
-  <img src="https://github-readme-stats-rouge-eight.vercel.app/api/top-langs/?username=Julien-Wiegandt&layout=compact&hide_border=true&theme=dark" height="200" />
+  <img src="https://github-readme-stats-rouge-eight.vercel.app/api?username=Julien-Wiegandt&hide=stars,issues,contribs&show=lines_changed,github_actions&hide_border=true" height="200" />
+  <img src="https://github-readme-stats-rouge-eight.vercel.app/api/top-langs/?username=Julien-Wiegandt&layout=compact&hide_border=true" height="200" />
 </div>
 
 <br/>
