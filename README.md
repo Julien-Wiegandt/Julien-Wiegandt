@@ -3,7 +3,7 @@
 # Hi, I'm Julien. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Founding+Engineer+%40+Kawaak;Full-stack+TypeScript+%E2%80%94+React+%2F+Node.js;Building+SaaS+products+from+0+to+production;23K%2B+users+%C2%B7+%E2%82%AC200K+ARR+%C2%B7+3+people" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Founding+Engineer+%40+Kawaak+%C2%B7+5%2B+years+xp;Full-stack+TypeScript+%E2%80%94+React+%2F+Node.js;Building+SaaS+products+from+0+to+production;23K%2B+users+%C2%B7+%E2%82%AC200K+ARR+%C2%B7+3+people" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,7 +23,7 @@ I'm a **Founding Engineer & Co-founder** of [Kawaak](https://kawaak.com) — an 
 
 I'm also **Founder & CEO** of [Keypop](https://www.keypop.io) (AI-powered keyboard shortcuts desktop app) and [Forevr](https://www.forevr.fr) (digital memorial platform with QR-engraved plaques).
 
-Before that, 3 years as a **Full-stack Engineer** at **Waalaxy** (LinkedIn prospecting platform, **+1 million users**, team of 16 engineers) where I owned and shipped several critical product features: an email prospecting service, a vector-search-based lead discovery system (Pinecone), and a native HubSpot integration — inside a high-throughput, event-driven micro-services architecture (Kafka).
+With **5+ years** of experience, I spent 3 years as a **Full-stack Engineer** at **Waalaxy** (LinkedIn prospecting platform, **+1 million users**, team of 16 engineers) where I owned and shipped several critical product features: an email prospecting service, a vector-search-based lead discovery system (Pinecone), and a native HubSpot integration — inside a high-throughput, event-driven micro-services architecture (Kafka).
 
 I'm comfortable across the full stack: from system design and API architecture to UI animations and product quality. I write **strict TypeScript**, care about type-safe end-to-end systems, and ship products that hold at scale.
 
@@ -232,7 +232,7 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
 
 | School | Degree | Year |
 |---|---|---|
-| Université de Sherbrooke (Québec, Canada) | M.Sc. Software Engineering *(double degree)* | 2021–2022 |
+| University of Sherbrooke (Québec, Canada) | M.Sc. Software Engineering *(double degree)* | 2021–2022 |
 | Polytech Montpellier | Engineering Degree — CS & Management *(double degree)* | 2019–2022 |
 | IUT de Blagnac | 2-year Computer Science Degree (DUT) | 2017–2019 |
 
