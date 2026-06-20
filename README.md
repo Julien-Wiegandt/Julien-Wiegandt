@@ -8,7 +8,6 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-wiegandt/)
 [![Kawaak](https://img.shields.io/badge/Kawaak-Founding%20Engineer-4F46E5?style=for-the-badge)](https://kawaak.com)
 [![Keypop](https://img.shields.io/badge/Keypop-Founder%20%26%20CEO-14161A?style=for-the-badge)](https://www.keypop.io)
 [![Forevr](https://img.shields.io/badge/Forevr-Founder%20%26%20CEO-16A34A?style=for-the-badge)](https://www.forevr.fr)
