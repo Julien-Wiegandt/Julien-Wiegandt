@@ -70,7 +70,6 @@ code {
 <p align="left">
 <a href="mailto:wiegandtjulien2@gmail.com"><img src="https://img.shields.io/badge/Email-wiegandtjulien2%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://calendar.app.google/CQjuoc67hZe4452G8"><img src="https://img.shields.io/badge/Prendre%20RDV-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/julien-wiegandt/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/Julien-Wiegandt"><img src="https://img.shields.io/badge/GitHub-CV%20détaillé%20ici-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
