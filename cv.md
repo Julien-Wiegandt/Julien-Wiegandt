@@ -68,9 +68,7 @@ code {
 <p align="left"><strong style="font-size:15px;">Founding & Full-stack Engineer</strong> <span style="font-size:15px;">· TypeScript / React / Node.js · <strong>5+ ans d'xp</strong></span></p>
 
 <p align="left">
-<a href="mailto:wiegandtjulien2@gmail.com"><img src="https://img.shields.io/badge/Email-wiegandtjulien2%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://calendar.app.google/CQjuoc67hZe4452G8"><img src="https://img.shields.io/badge/Prendre%20RDV-4285F4?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a>
-<a href="https://github.com/Julien-Wiegandt"><img src="https://img.shields.io/badge/GitHub-CV%20détaillé%20ici-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Montpellier-4F46E5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjxyZWN0IHdpZHRoPSIzIiBoZWlnaHQ9IjIiIGZpbGw9IiNFRDI5MzkiLz48cmVjdCB3aWR0aD0iMiIgaGVpZ2h0PSIyIiBmaWxsPSIjZmZmIi8%2BPHJlY3Qgd2lkdGg9IjEiIGhlaWdodD0iMiIgZmlsbD0iIzAwMjM5NSIvPjwvc3ZnPg%3D%3D" /><a href="mailto:wiegandtjulien2@gmail.com"><img src="https://img.shields.io/badge/wiegandtjulien2%40gmail.com-4F46E5?style=for-the-badge" /></a><a href="tel:+33634087380"><img src="https://img.shields.io/badge/06%2034%2008%2073%2080-4F46E5?style=for-the-badge" /></a><a href="https://calendar.app.google/CQjuoc67hZe4452G8"><img src="https://img.shields.io/badge/Prendre%20RDV-4F46E5?style=for-the-badge&logo=googlecalendar&logoColor=white" /></a><a href="https://github.com/Julien-Wiegandt"><img src="https://img.shields.io/badge/GitHub-CV%20détaillé-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 Founding Engineer & Co-fondateur d'un **SaaS IA** adopté par **PayFit, Canva & Notion**. À l'aise sur l'ensemble du **full stack**, de l'architecture système et API jusqu'au motion UI et à la qualité produit. J'écris du **TypeScript strict**, des **systèmes type-safe de bout en bout**, et livre des produits scalables.
@@ -78,30 +76,30 @@ Founding Engineer & Co-fondateur d'un **SaaS IA** adopté par **PayFit, Canva & 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Expérience" width="22" /> Expérience
 
-- **Founding Engineer & Co-fondateur · [KAWAAK](https://kawaak.com)** · `Nov. 2024 → Aujourd'hui`
+- **Founding Engineer & Co-fondateur · [KAWAAK](https://kawaak.com)** · `Nov. 2024 - Juil. 2026`
   SaaS de génération de contenu LinkedIn par IA, construit de zéro à 3 personnes.
   - **+23K utilisateurs · +200K€ ARR · adopté par PayFit, Canva, Notion · 4.8/5 (150+ avis)**
   - Architecture full-stack : monorepo NX, React / Vite (TS strict), backend Node / Express / Zod type-safe, MongoDB + Redis + BullMQ
   - Orchestration multi-LLM (OpenAI, Anthropic) · auth Clerk · Stripe + PayPal · AWS · Sentry / PostHog / Mixpanel
   - Ownership de bout en bout : architecture, code review, déploiement, observabilité, support utilisateurs
 
-- **Fondateur & CEO · [FOREVR](https://www.forevr.fr)** · `2025 → Aujourd'hui`
+- **Fondateur & CEO · [FOREVR](https://www.forevr.fr)** · `2025 - Aujourd'hui`
   Plateforme mémorielle où les familles préservent et partagent leurs souvenirs (photos, vidéos, audio) via un QR code gravé sur une plaque plexiglas. Développé avec Next.js / React / TypeScript.
 
-- **Fondateur & CEO · [KEYPOP](https://www.keypop.io)** · `2023 → Aujourd'hui`
+- **Fondateur & CEO · [KEYPOP](https://www.keypop.io)** · `2023 - Aujourd'hui`
   Application desktop (Electron) et extension Chrome associant des prompts IA à des raccourcis clavier.
 
-- **Développeur Full-stack · [WAALAXY](https://www.waalaxy.com)** · `Mai 2022 → Nov. 2024`
+- **Développeur Full-stack · [WAALAXY](https://www.waalaxy.com)** · `Mai 2022 - Nov. 2024`
   Plateforme de prospection LinkedIn, **+1M utilisateurs**, équipe de 16 ingénieurs.
   - Intégré la **recherche vectorielle de prospects (Pinecone)** dans l'onboarding, **+80% de conversion** (validé par A/B testing)
   - Livré un **service de prospection email** qui a **multiplié par 10 le volume d'emails envoyés** + **intégration native HubSpot**
   - Architecture micro-services haute charge : event-driven (Kafka), MongoDB, déploiement conteneurisé
 
-- **Développeur Front-end React · CODÉIN** · `Juin 2021 → Août 2021`
+- **Développeur Front-end React · CODÉIN** · `Juin 2021 - Août 2021`
   Développé **90% de la nouvelle web app de gestion du personnel** de [OPPBTP](https://www.oppbtp.com/) en React TypeScript.
 
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Stack" width="22" /> Stack technique
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Stack" width="22" /> Compétences techniques
 
 <table>
   <tr>

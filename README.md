@@ -41,7 +41,7 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://kawaak.com">Kawaak</a> — AI LinkedIn SaaS <img src="https://img.shields.io/badge/Live-16A34A?style=flat-square" /></h4>
+      <h4><a href="https://kawaak.com">Kawaak</a> — AI LinkedIn SaaS <img src="https://img.shields.io/badge/Nov.%202024%20--%20Jul.%202026-6B7280?style=flat-square" /></h4>
       <p><em>"Turn your expertise into LinkedIn posts that actually perform — and get paid for it."</em></p>
       <p>
         <strong>+23K users · +€200K ARR</strong><br/>
@@ -116,7 +116,7 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
 ---
 
 #### Founding Engineer & Co-founder — [Kawaak](https://kawaak.com)
-`Nov. 2024 → Present` · Montpellier
+`Nov. 2024 → Jul. 2026` · Montpellier
 
 - Co-founded and launched from scratch **with a team of 3** an AI-powered LinkedIn content SaaS — **+23,000 users**, **+€200K ARR**, adopted by PayFit, Canva and Notion
 - Built the full-stack architecture end-to-end: **NX monorepo**, React / Vite in **strict TypeScript**, Node / Express / Zod type-safe backend, MongoDB + Redis (cache & queues via **BullMQ**)
@@ -257,7 +257,6 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
 Open to **Senior / Founding Engineer** opportunities in Montpellier or remote.
 
 [![Email](https://img.shields.io/badge/Email-wiegandtjulien2%40gmail.com-4F46E5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wiegandtjulien2@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-julien--wiegandt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julien-wiegandt/)
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;">
 
