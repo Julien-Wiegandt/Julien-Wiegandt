@@ -1,11 +1,20 @@
-import re, sys
+import re, sys, os
 
 src = open(sys.argv[1], encoding='utf-8').read()
 
-# 1. pull the <style> block out verbatim
+# 1. the stylesheet is shared by every CV variant: style.css, next to this
+#    script. Any inline <style> left in a .md is stripped and ignored, so a
+#    layout or ATS fix is applied once and lands on every PDF.
 m = re.search(r'<style>.*?</style>', src, re.S)
-style = m.group(0) if m else ''
 body_src = src[m.end():] if m else src
+
+css_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'style.css')
+if os.path.exists(css_path):
+    style = '<style>' + open(css_path, encoding='utf-8').read() + '</style>'
+elif m:
+    style = m.group(0)
+else:
+    style = ''
 
 def inline(t):
     t = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', t)
