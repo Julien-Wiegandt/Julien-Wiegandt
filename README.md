@@ -3,14 +3,14 @@
 # Hi, I'm Julien. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Founding+Engineer+%40+Kawaak+%C2%B7+5%2B+years+xp;Full-stack+TypeScript+%E2%80%94+React+%2F+Node.js;Building+SaaS+products+from+0+to+production;23K%2B+users+%C2%B7+%E2%82%AC200K+ARR+%C2%B7+3+people" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%C2%B7+Founding+Engineer;Full-stack+TypeScript+%E2%80%94+React+%2F+Node.js;Building+SaaS+products+from+0+to+production;23K%2B+users+%C2%B7+%E2%82%AC200K+ARR+%C2%B7+PayFit%2C+Canva%2C+Notion" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Kawaak](https://img.shields.io/badge/Kawaak-Founding%20Engineer-4F46E5?style=for-the-badge)](https://kawaak.com)
-[![Keypop](https://img.shields.io/badge/Keypop-Founder%20%26%20CEO-14161A?style=for-the-badge)](https://www.keypop.io)
 [![Forevr](https://img.shields.io/badge/Forevr-Founder%20%26%20CEO-16A34A?style=for-the-badge)](https://www.forevr.fr)
+[![Kawaak](https://img.shields.io/badge/Kawaak-Tech%20Lead%20%26%20Co--founder-4F46E5?style=for-the-badge)](https://kawaak.com)
+[![Keypop](https://img.shields.io/badge/Keypop-Founder%20%26%20CEO-14161A?style=for-the-badge)](https://www.keypop.io)
 
 </div>
 
@@ -18,13 +18,13 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="About" width="25" /> About me
 
-I'm a **Founding Engineer & Co-founder** of [Kawaak](https://kawaak.com) — an AI-powered LinkedIn content platform built from scratch with a team of 3, reaching **+23,000 users** and **+€200K ARR**, adopted by PayFit, Canva, and Notion.
+I'm **Founder & CEO** of [Forevr](https://www.forevr.fr), a digital memorial SaaS where families keep and share the memory of the people they love. I carry it end to end on my own: product, design, engineering, business, SEO/SEA, growth and marketing.
 
-I'm also **Founder & CEO** of [Keypop](https://www.keypop.io) (AI-powered keyboard shortcuts desktop app) and [Forevr](https://www.forevr.fr) (digital memorial platform with QR-engraved plaques).
+Before that I was **Tech Lead & Co-founder** of [Kawaak](https://kawaak.com) — an AI-powered LinkedIn content SaaS built from scratch with a team of 3, which reached **+23,000 users** and **+€200K ARR**, adopted by PayFit, Canva and Notion. I also founded [Keypop](https://www.keypop.io), a desktop app binding AI prompts to keyboard shortcuts.
 
-With **5+ years** of experience, I spent 3 years as a **Full-stack Engineer** at **Waalaxy** (LinkedIn prospecting platform, **+1 million users**, team of 16 engineers) where I owned and shipped several critical product features: an email prospecting service, a vector-search-based lead discovery system (Pinecone), and a native HubSpot integration — inside a high-throughput, event-driven micro-services architecture (Kafka).
+With **5+ years** of experience, I spent two and a half years as a **Software Engineer, Full-stack** at **Waalaxy** (LinkedIn prospecting platform, **+1 million users**, team of 16 engineers) where I built an automated data pipeline from production to a Snowflake warehouse over **500M+ prospects**, designed **Prospect Finder** (vector search, Pinecone) which lifted onboarding conversion by **+80%**, shipped an email prospecting service (**×10 volume**) and a native HubSpot integration — on an event-driven platform (**Kafka**).
 
-I'm comfortable across the full stack: from system design and API architecture to UI animations and product quality. I write **strict TypeScript**, care about type-safe end-to-end systems, and ship products that hold at scale.
+I design, ship and **monitor in production** software that holds at scale. I write **strict TypeScript**, care about type-safe end-to-end systems, and keep a real bar for **UX**: a product is only good if people want to use it.
 
 <br/>
 
@@ -57,15 +57,19 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://www.forevr.fr">Forevr</a> — Digital memorial + QR plaque <img src="https://img.shields.io/badge/Live-16A34A?style=flat-square" /></h4>
+      <h4><a href="https://www.forevr.fr">Forevr</a> — Digital memorial SaaS <img src="https://img.shields.io/badge/Live-16A34A?style=flat-square" /></h4>
       <p><em>"For those who stay with us forever."</em></p>
       <p>
-        A collaborative memorial space (photos, videos, audio) accessible via a QR code engraved on a plexiglass plaque. One-time payment, guaranteed up to 30 years.
+        <strong>+500 visitors/month</strong><br/>
+        A collaborative memorial space (photos, videos, audio) to remember the people we love. Self-service, with a partner programme for funeral agencies.<br/>
+        <strong>494 end-to-end tests</strong> · monitored in production
       </p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -85,7 +89,7 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://www.keypop.io">Keypop</a> — Desktop App + Chrome Ext. <img src="https://img.shields.io/badge/WIP-orange?style=flat-square" /></h4>
+      <h4><a href="https://www.keypop.io">Keypop</a> — Desktop App + Chrome Ext. <img src="https://img.shields.io/badge/2023--2024-6B7280?style=flat-square" /></h4>
       <p><em>"Bind your AI prompts to keyboard shortcuts. Transform, summarize and paste text in any app."</em></p>
       <p>
         <strong>macOS / Windows / Linux</strong><br/>
@@ -107,16 +111,16 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
 ---
 
 #### Founder & CEO — [Forevr](https://www.forevr.fr)
-`2025 → Present` · Remote
+`July 2026 → Present` · Montpellier, France
 
-- Founded a digital memorial platform allowing families to preserve memories (photos, videos, audio) on a collaborative space, accessible by scanning a QR code engraved on a physical plexiglass plaque
-- One-time payment model (€79–€299), guaranteed up to 30 years — no subscription
-- Built with Next.js / React / TypeScript
+- Founded a digital memorial SaaS where families keep and share memories (photos, videos, audio) of the people they love — **+500 visitors/month**
+- Carried end to end on my own: product, design, engineering, **business, SEO/SEA, growth and marketing**
+- Next.js / React / TypeScript, MongoDB, Stripe · **494 Playwright end-to-end tests** · **monitored in production** (Sentry, Umami)
 
 ---
 
-#### Founding Engineer & Co-founder — [Kawaak](https://kawaak.com)
-`Nov. 2024 → Jul. 2026` · Montpellier
+#### Tech Lead & Co-founder — [Kawaak](https://kawaak.com)
+`November 2024 → July 2026` · Montpellier, France
 
 - Co-founded and launched from scratch **with a team of 3** an AI-powered LinkedIn content SaaS — **+23,000 users**, **+€200K ARR**, adopted by PayFit, Canva and Notion
 - Built the full-stack architecture end-to-end: **NX monorepo**, React / Vite in **strict TypeScript**, Node / Express / Zod type-safe backend, MongoDB + Redis (cache & queues via **BullMQ**)
@@ -126,28 +130,29 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
 
 ---
 
+#### Software Engineer, Full-stack — [Waalaxy](https://www.waalaxy.com)
+`May 2022 → November 2024` · Montpellier, France
+
+- LinkedIn prospecting platform with **+1 million users** — team of 16 engineers, 2 EMs, 3 PMs, 2 designers, 2 QAs
+- Built an **automated data pipeline from production (MongoDB) to a Snowflake warehouse**, enriching and categorising **500M+ prospects and 1B+ actions** for analytics and targeting
+- Designed **Prospect Finder**, keyword and filter vector search (**Pinecone**) across those 500M+ profiles, with PM, designer and growth: **+80% conversion** at onboarding (A/B testing)
+- Shipped an **email prospecting service** (**×10 volume**) and a **native HubSpot integration**, on a service foundation (DAO, controllers, routes, middlewares) I co-defined
+- **Reviewed the team's pull requests**, **mentoring** (pair programming, onboarding) and **tech meetups** shared with the tech teams — on an event-driven platform (**Kafka**)
+
+---
+
 #### Founder & CEO — [Keypop](https://www.keypop.io)
-`2023 → Present` · Remote
+`2023 → 2024` · Montpellier, France
 
 - Built a desktop app (Electron, macOS / Windows / Linux) + Chrome extension that binds AI prompts to keyboard shortcuts, enabling instant text transformation in any app
 - Supports both local inference (Ollama) and cloud models (OpenAI, Anthropic)
 
 ---
 
-#### Full-stack Engineer — [Waalaxy](https://www.waalaxy.com)
-`May 2022 → Nov. 2024` · Montpellier
+#### Front-end React Developer — [Codéin](https://www.codein.fr/)
+`June 2021 → August 2021` · Montpellier, France
 
-- Part of a **16-engineer team** on a LinkedIn prospecting platform with **+1 million users**, with strong performance and scalability requirements
-- Designed and shipped several critical product features: **email prospecting service**, **vector-search-based lead discovery (Pinecone)**, and a **native HubSpot integration**
-- Worked within a high-throughput micro-services architecture: event-driven (**Kafka**), MongoDB, containerized deployment
-- Strong autonomy over technical decisions and delivery
-
----
-
-#### Front-end React Developer — Codéin
-`Jun. 2021 → Aug. 2021` · Montpellier
-
-- Built **90% of the new web interface** for the personnel management tool of [OPPBTP](https://www.oppbtp.com/) (French construction industry safety organization) in React TypeScript
+- Built **90% of the new HR web interface** of [OPPBTP](https://www.oppbtp.com/) (French construction industry safety organization) in React TypeScript
 
 <br/>
 
@@ -162,19 +167,18 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
       <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h4 align="center">Motion</h4>
+      <h4 align="center">UI & Motion</h4>
     </td>
     <td>
+      <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
-      <img src="https://img.shields.io/badge/Lottie-00A98F?style=flat-square" />
     </td>
   </tr>
   <tr>
@@ -182,37 +186,50 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
       <h4 align="center">Back-end</h4>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST-02569B?style=flat-square" />
-      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square" />
+      <img src="https://img.shields.io/badge/API_REST-02569B?style=flat-square" />
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h4 align="center">Data & Infra</h4>
+      <h4 align="center">Data</h4>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square" />
       <img src="https://img.shields.io/badge/BullMQ-FF0000?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4 align="center">Infra</h4>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td valign="top">
-      <h4 align="center">Practices</h4>
+      <h4 align="center">Tests & Practices</h4>
     </td>
     <td>
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
       <img src="https://img.shields.io/badge/Monorepo_NX-143055?style=flat-square&logo=nx&logoColor=white" />
       <img src="https://img.shields.io/badge/Continuous_Delivery-0A0A0A?style=flat-square" />
       <img src="https://img.shields.io/badge/Code_Review-4F46E5?style=flat-square" />
-      <img src="https://img.shields.io/badge/Web_Scraping-FF6B35?style=flat-square" />
+      <img src="https://img.shields.io/badge/Agile-4F46E5?style=flat-square" />
+      <img src="https://img.shields.io/badge/AI--assisted_workflows-14161A?style=flat-square&logo=anthropic&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -223,9 +240,9 @@ I think in terms of **ownership**: I'm not just the person who writes the featur
 
 | School | Degree | Year |
 |---|---|---|
-| University of Sherbrooke (Québec, Canada) | M.Sc. Software Engineering *(double degree)* | 2021–2022 |
-| Polytech Montpellier | Engineering Degree — CS & Management *(double degree)* | 2019–2022 |
-| IUT de Blagnac | 2-year Computer Science Degree (DUT) | 2017–2019 |
+| University of Sherbrooke (Québec, Canada) | M.Sc. Software Engineering *(double degree)* | 2021-2022 |
+| Polytech Montpellier, France | Engineering Degree — CS & Management *(double degree)* | 2019-2022 |
+| IUT de Blagnac, France | B.Tech. Computer Science | 2017-2019 |
 
 <br/>
 
