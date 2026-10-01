@@ -10,7 +10,7 @@ Full-stack engineer: I design, ship and **monitor in production** software that 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Experience" width="22" /> Professional Experience
 
-- **[FOREVR](https://www.forevr.fr)** · Founder & CEO · Montpellier, France · `July 2026 - Present`
+- **[FOREVR](https://forevr.fr/r/swile)** · Founder & CEO · Montpellier, France · `July 2026 - Present`
   Digital memorial SaaS to remember the people we love · **500+ visitors/month**.
   - Carried end to end on my own: product, design, engineering, **business, SEO/SEA, growth and marketing**
   - Next/React/TS, MongoDB, Stripe · **494 Playwright e2e tests** · **monitored in production** (Sentry, Umami)

@@ -10,7 +10,7 @@ Ingénieur full-stack : je conçois, livre et **monitore en production** des pro
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Expérience" width="22" /> Expériences Professionnelles
 
-- **[FOREVR](https://www.forevr.fr)** · Fondateur & CEO · Montpellier, France · `Juillet 2026 - Aujourd'hui`
+- **[FOREVR](https://forevr.fr/r/swile)** · Fondateur & CEO · Montpellier, France · `Juillet 2026 - Aujourd'hui`
   SaaS de mémoriaux numériques pour se souvenir de nos proches · **+500 visiteurs/mois**.
   - Porté seul de bout en bout : produit, design, développement, **business, SEO/SEA, growth et marketing**
   - Next/React/TypeScript, MongoDB, Stripe · **494 tests e2e Playwright** · **monitoré en production** (Sentry, Umami)
