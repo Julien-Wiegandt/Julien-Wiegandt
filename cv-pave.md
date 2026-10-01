@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Montpellier%2C%20France-4F46E5?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzIDIiPjxyZWN0IHdpZHRoPSIzIiBoZWlnaHQ9IjIiIGZpbGw9IiNFRDI5MzkiLz48cmVjdCB3aWR0aD0iMiIgaGVpZ2h0PSIyIiBmaWxsPSIjZmZmIi8%2BPHJlY3Qgd2lkdGg9IjEiIGhlaWdodD0iMiIgZmlsbD0iIzAwMjM5NSIvPjwvc3ZnPg%3D%3D" /><a href="mailto:wiegandtjulien2@gmail.com"><img src="https://img.shields.io/badge/wiegandtjulien2%40gmail.com-4F46E5?style=flat-square" /></a><a href="tel:+33634087380"><img src="https://img.shields.io/badge/0634087380-4F46E5?style=flat-square" /></a><a href="https://www.linkedin.com/in/julien-wiegandt-7b17b8430/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4%3D" /></a><a href="https://calendar.app.google/CQjuoc67hZe4452G8"><img src="https://img.shields.io/badge/Prendre%20RDV-4F46E5?style=flat-square&logo=googlecalendar&logoColor=white" /></a><a href="https://github.com/Julien-Wiegandt"><img src="https://img.shields.io/badge/GitHub-CV%20détaillé-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
-Ingénieur full-stack : je conçois, livre et **monitore en production** des produits qui tiennent à l'échelle, d'une plateforme **event-driven à +1M utilisateurs** (Kafka) au **SaaS IA** que j'ai co-fondé, adopté par **PayFit, Canva & Notion**. **TypeScript strict**, type-safe de bout en bout, **développement assisté par agents de code** et une vraie exigence d'**UX** : un outil n'est bon que si ceux qui s'en servent travaillent mieux.
+Ingénieur full-stack : je conçois, livre et **monitore en production** des produits qui tiennent à l'échelle, d'une plateforme **event-driven à +1M utilisateurs** (Kafka) au **SaaS IA** que j'ai co-fondé, adopté par **PayFit, Canva & Notion**. **TypeScript strict**, type-safe de bout en bout, **workflows de dev assistés par agents IA** et une vraie exigence d'**UX** : un outil n'est bon que si ceux qui s'en servent travaillent mieux.
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Expérience" width="22" /> Expériences Professionnelles
@@ -13,12 +13,12 @@ Ingénieur full-stack : je conçois, livre et **monitore en production** des pro
 - **[FOREVR](https://www.forevr.fr)** · Fondateur & CEO · Montpellier, France · `Juillet 2026 - Aujourd'hui`
   SaaS de mémoriaux numériques, **porté seul de bout en bout** : produit, architecture, delivery, QA et support.
   - Next.js (**App Router**) / React / TypeScript, MongoDB, Stripe · **494 tests e2e Playwright** · **monitoré en production** (Sentry, Umami)
-  - **Développement assisté par agents de code** sur tout le cycle (investigation → revue) : instructions de dépôt, **serveurs MCP**, tâches programmées
+  - **Workflows de dev assistés par agents IA** sur tout le cycle (investigation → review) : **skills** maison, **serveurs MCP** intégrés aux outils métier, instructions de repo
 
 - **[KAWAAK](https://kawaak.com)** · Tech Lead & Co-fondateur · Montpellier, France · `Novembre 2024 - Juillet 2026`
   SaaS de contenu LinkedIn par IA, construit de zéro avec : ML engineer et Growth Marketer.
   - **+23K utilisateurs · +200K€ ARR · adopté par PayFit, Canva, Notion · 4.8/5 (150+ avis)**
-  - Architecture full-stack **souple et scalable** : monorepo NX, React / Vite (TS strict), backend [express-zod-api](https://github.com/RobinTail/express-zod-api), MongoDB + Redis + BullMQ, AWS, orchestration multi-LLM
+  - Architecture full-stack **modulaire et scalable** : monorepo NX, React / Vite (TS strict), backend [express-zod-api](https://github.com/RobinTail/express-zod-api), MongoDB + Redis + BullMQ, AWS, orchestration multi-LLM
   - **Pilotage complet du projet**, **ownership de l'idée à la production**, en **équipe agile** (**weekly** CEO)
 
 - **[WAALAXY](https://www.waalaxy.com)** · Software Engineer, Full-stack · Montpellier, France · `Mai 2022 - Novembre 2024`
@@ -103,7 +103,7 @@ Ingénieur full-stack : je conçois, livre et **monitore en production** des pro
       <h4 align="center">IA &amp; Agents</h4>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Agents_de_code-14161A?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Agents_IA-14161A?style=flat-square&logo=anthropic&logoColor=white" />
       <img src="https://img.shields.io/badge/Serveurs_MCP-14161A?style=flat-square" />
       <img src="https://img.shields.io/badge/Orchestration_multi--LLM-14161A?style=flat-square" />
     </td>

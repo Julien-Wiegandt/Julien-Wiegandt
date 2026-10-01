@@ -18,7 +18,7 @@ Full-stack engineer: I design, ship and **monitor in production** software that 
 - **[KAWAAK](https://kawaak.com)** · Tech Lead & Co-founder · Montpellier, France · `November 2024 - July 2026`
   AI-powered LinkedIn content SaaS, built from scratch with: ML engineer and Growth Marketer.
   - **23K+ users · €200K+ ARR · adopted by PayFit, Canva, Notion · 4.8/5 (150+ reviews)**
-  - **Flexible and scalable** full-stack architecture: NX monorepo, React / Vite (strict TS), [express-zod-api](https://github.com/RobinTail/express-zod-api) backend, MongoDB + Redis + BullMQ, AWS, multi-LLM orchestration, Stripe + PayPal, Sentry / PostHog / Mixpanel
+  - **Modular and scalable** full-stack architecture: NX monorepo, React / Vite (strict TS), [express-zod-api](https://github.com/RobinTail/express-zod-api) backend, MongoDB + Redis + BullMQ, AWS, multi-LLM orchestration, Stripe + PayPal, Sentry / PostHog / Mixpanel
   - **Full ownership of the project**, **from the idea to production**, in an **agile team** (**weekly** with the CEO)
 
 - **[WAALAXY](https://www.waalaxy.com)** · Software Engineer, Full-stack · Montpellier, France · `May 2022 - November 2024`

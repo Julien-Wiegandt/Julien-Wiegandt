@@ -13,12 +13,12 @@ Full-stack engineer: I design, ship and **monitor in production** software that 
 - **[FOREVR](https://www.forevr.fr)** · Founder & CEO · Montpellier, France · `July 2026 - Present`
   Digital memorial SaaS, **carried end to end on my own**: product, architecture, delivery, QA and support.
   - Next.js (**App Router**) / React / TypeScript, MongoDB, Stripe · **494 Playwright e2e tests** · **monitored in production** (Sentry, Umami)
-  - **Agentic development harness** across the whole cycle (investigation → review): repository instructions, **MCP servers**, scheduled tasks
+  - **Agentic development workflows** across the whole cycle (investigation → review): custom **skills**, **MCP servers** integrated with the business tools, repository instructions
 
 - **[KAWAAK](https://kawaak.com)** · Tech Lead & Co-founder · Montpellier, France · `November 2024 - July 2026`
   AI-powered LinkedIn content SaaS, built from scratch with: ML engineer and Growth Marketer.
   - **23K+ users · €200K+ ARR · adopted by PayFit, Canva, Notion · 4.8/5 (150+ reviews)**
-  - **Flexible and scalable** full-stack architecture: NX monorepo, React / Vite (strict TS), [express-zod-api](https://github.com/RobinTail/express-zod-api) backend, MongoDB + Redis + BullMQ, AWS, multi-LLM orchestration
+  - **Modular and scalable** full-stack architecture: NX monorepo, React / Vite (strict TS), [express-zod-api](https://github.com/RobinTail/express-zod-api) backend, MongoDB + Redis + BullMQ, AWS, multi-LLM orchestration
   - **Full ownership of the project**, **from the idea to production**, in an **agile team** (**weekly** with the CEO)
 
 - **[WAALAXY](https://www.waalaxy.com)** · Software Engineer, Full-stack · Montpellier, France · `May 2022 - November 2024`
@@ -103,7 +103,7 @@ Full-stack engineer: I design, ship and **monitor in production** software that 
       <h4 align="center">AI &amp; Agents</h4>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Coding_agents-14161A?style=flat-square&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/AI_agents-14161A?style=flat-square&logo=anthropic&logoColor=white" />
       <img src="https://img.shields.io/badge/MCP_servers-14161A?style=flat-square" />
       <img src="https://img.shields.io/badge/Multi--LLM_orchestration-14161A?style=flat-square" />
     </td>
