@@ -13,7 +13,7 @@ Full-stack engineer: I design, ship and **monitor in production** software that 
 - **[FOREVR](https://forevr.fr/r/pave)** · Founder & CEO · Montpellier, France · `July 2026 - Present`
   Digital memorial SaaS, **carried end to end on my own**: product, architecture, delivery, QA and support.
   - Next.js (**App Router**) / React / TypeScript, MongoDB, Stripe · **494 Playwright e2e tests** · **monitored in production** (Sentry, Umami)
-  - **Agentic pipeline in production**: SEO strategy driven through **MCP** and **10 articles/week** shipped, automated **Sentry** issue resolution, weekly monitoring, **Slack** reports
+  - **Coding agents** across the whole cycle (plan, review, tests, prod) and an **autonomous agentic pipeline**: SEO strategy through **MCP**, **10 articles/week**, automated **Sentry** issue resolution, **Slack** reports
 
 - **[KAWAAK](https://kawaak.com)** · Tech Lead & Co-founder · Montpellier, France · `November 2024 - July 2026`
   AI-powered LinkedIn content SaaS, built from scratch with: ML engineer and Growth Marketer.
@@ -23,7 +23,7 @@ Full-stack engineer: I design, ship and **monitor in production** software that 
 
 - **[WAALAXY](https://www.waalaxy.com)** · Software Engineer, Full-stack · Montpellier, France · `May 2022 - November 2024`
   LinkedIn prospecting platform, **1M+ users**, team of 16 engineers, 2 EMs, 3 PMs, 2 designers, 2 QAs.
-  - **Automated data pipeline from production (MongoDB) to a Snowflake warehouse**, enriching and categorising **500M+ prospects and 1B+ actions** for analytics and targeting
+  - **Automated data pipeline from production (MongoDB) to a Snowflake warehouse**, enriching and categorising **500M+ prospects and 1B+ actions**, used daily by the product and growth teams
   - Designed **Prospect Finder**, keyword and filter vector search (Pinecone) across those **500M+ profiles**, with PM, designer and growth: **+80% conversion** at onboarding (A/B testing)
   - Shipped an **email prospecting service** (**×10 volume**) and a **native HubSpot integration**, designed with the **Engineering Manager**, on a **service foundation** (DAO, controllers, routes, middlewares) I co-defined
   - **Reviewed the team's pull requests**, **mentoring** (pair programming, onboarding) and **tech meetups** shared with the tech teams; weeks dedicated to support bugs, in pairs, handed over at the end of the week
@@ -44,9 +44,10 @@ Full-stack engineer: I design, ship and **monitor in production** software that 
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js_App_Router-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
     </td>
   </tr>
   <tr>

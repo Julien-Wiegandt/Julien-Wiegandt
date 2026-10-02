@@ -13,7 +13,7 @@ Ingénieur full-stack : je conçois, livre et **monitore en production** des pro
 - **[FOREVR](https://forevr.fr/r/pave)** · Fondateur & CEO · Montpellier, France · `Juillet 2026 - Aujourd'hui`
   SaaS de mémoriaux numériques, **porté seul de bout en bout** : produit, architecture, delivery, QA et support.
   - Next.js (**App Router**) / React / TypeScript, MongoDB, Stripe · **494 tests e2e Playwright** · **monitoré en production** (Sentry, Umami)
-  - **Pipeline agentique en production** : stratégie SEO pilotée via **MCP** et **10 articles/semaine** publiés, résolution automatique des issues **Sentry**, monitoring hebdomadaire, rapports **Slack**
+  - **Agents de code** sur tout le cycle (plan, review, tests, prod) et **pipeline agentique autonome** : stratégie SEO via **MCP**, **10 articles/semaine**, résolution auto des issues **Sentry**, rapports **Slack**
 
 - **[KAWAAK](https://kawaak.com)** · Tech Lead & Co-fondateur · Montpellier, France · `Novembre 2024 - Juillet 2026`
   SaaS de contenu LinkedIn par IA, construit de zéro avec : ML engineer et Growth Marketer.
@@ -23,7 +23,7 @@ Ingénieur full-stack : je conçois, livre et **monitore en production** des pro
 
 - **[WAALAXY](https://www.waalaxy.com)** · Software Engineer, Full-stack · Montpellier, France · `Mai 2022 - Novembre 2024`
   Plateforme de prospection LinkedIn, **+1M utilisateurs**, équipe de 16 ingénieurs, 2 EM, 3 PM, 2 designers, 2 QA.
-  - **Pipeline de données automatisée de la production (MongoDB) vers un entrepôt Snowflake**, enrichissant et catégorisant **+500M de prospects et +1 milliard d'actions** pour l'analyse et le ciblage
+  - **Pipeline de données automatisée de la production (MongoDB) vers un entrepôt Snowflake**, enrichissant et catégorisant **+500M de prospects et +1 milliard d'actions**, exploitée par les équipes produit et growth
   - Conçu **Prospect Finder**, la recherche vectorielle (Pinecone) par mots-clés et filtres sur ces **+500M de profils**, avec PM, designer et growth : **+80% de conversion** à l'onboarding (A/B testing)
   - Livré un **service de prospection email** (**×10 de volume**) et une **intégration native HubSpot**, conçus avec l'**Engineering Manager**, sur un **socle de services** (DAO, controllers, routes, middlewares) que j'ai co-défini
   - **Review des pull requests** de l'équipe, **mentorat** (pair programming, onboarding) et **tech meetups** de veille partagés aux équipes tech ; semaines dédiées aux bugs du support, en binôme, avec passation en fin de semaine
@@ -44,9 +44,10 @@ Ingénieur full-stack : je conçois, livre et **monitore en production** des pro
     <td>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Next.js_App_Router-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
     </td>
   </tr>
   <tr>
