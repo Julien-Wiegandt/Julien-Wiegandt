@@ -58,6 +58,9 @@ h3 img { margin: 0 !important; }
 p { margin: 4px 0 !important; }
 ul { margin: 3px 0 5px !important; padding-left: 18px !important; }
 li { margin: 2px 0 !important; }
+/* Respiration entre deux experiences : seules les puces de premier niveau
+   (une par entreprise) sont espacees, pas les puces imbriquees. */
+body > ul > li + li { margin-top: 3px !important; }
 hr { margin: 9px 0 !important; }
 table { font-size: 12.5px !important; border-collapse: collapse !important; width: 100% !important; }
 /* Tech stack table: alternating bands to separate the categories */

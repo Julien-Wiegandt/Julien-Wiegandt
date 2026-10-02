@@ -12,7 +12,14 @@ set -uo pipefail
 cd "$(dirname "$0")"
 
 targets=("$@")
-if [ ${#targets[@]} -eq 0 ]; then targets=(cv resume cv-swile resume-swile); fi
+# Par defaut : TOUS les CVs du depot. Surtout pas une liste figee — une
+# variante oubliee dedans, c'est un PDF sur 2 pages qui part en candidature.
+if [ ${#targets[@]} -eq 0 ]; then
+  targets=()
+  for f in cv.md resume.md cv-*.md resume-*.md; do
+    [ -e "$f" ] && targets+=("${f%.md}")
+  done
+fi
 
 fail=0
 for name in "${targets[@]}"; do
