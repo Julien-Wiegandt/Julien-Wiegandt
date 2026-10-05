@@ -11,20 +11,20 @@ Full-stack engineer: I design, ship and **monitor in production** software that 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Experience" width="22" /> Professional Experience
 
 - **[FOREVR](https://forevr.fr/r/teads)** · Founder & CEO · Montpellier, France · `July 2026 - Present`
-  Digital memorial SaaS, **carried end to end on my own**: product, design, engineering, business, SEO/SEA and growth.
-  - Next.js/React/TypeScript, MongoDB, Stripe · **Playwright e2e tests** · **monitored in production** (Sentry, Umami)
-  - **AI routines** across the whole cycle (plan, review, tests, prod) and an **autonomous agentic pipeline**: SEO strategy over **MCP**, **10 articles/week** published, **Sentry** issues resolved automatically, **Slack** reports
+  Digital memorial SaaS, carried end to end on my own: product, design, engineering, business, SEO/SEA and growth.
+  - **Next.js/React/TypeScript**, MongoDB, Stripe · **Playwright e2e tests** · **monitored in production** (Sentry, Umami)
+  - **AI routines** across the whole cycle (plan, review, tests, prod) and an **autonomous agentic pipeline**: SEO strategy over MCP, **10 articles/week** published, Sentry issues resolved automatically, Slack reports
 
 - **[KAWAAK](https://kawaak.com)** · Tech Lead & Co-founder · Montpellier, France · `November 2024 - July 2026`
   AI-powered LinkedIn content SaaS, built from scratch with: ML engineer and Growth Marketer.
-  - **23K+ users · €200K+ ARR · adopted by PayFit, Canva, Notion · 4.8/5 (150+ reviews)**
+  - **23K+ users · €200K+ ARR · adopted by PayFit, Canva, Notion** · 4.8/5 (150+ reviews)
   - **Modular and scalable** full-stack architecture: NX monorepo, React / Vite (strict TS), [express-zod-api](https://github.com/RobinTail/express-zod-api) backend, MongoDB + Redis + BullMQ, AWS, multi-LLM orchestration, Sentry / PostHog / Mixpanel
-  - **Full ownership of the project**, **from the idea to production**, in an **agile team** (**weekly** with the CEO)
+  - **Full ownership, from the idea to production**, in an **agile team** (**weekly** with the CEO)
 
 - **[WAALAXY](https://www.waalaxy.com)** · Software Engineer, Full-stack · Montpellier, France · `May 2022 - November 2024`
-  LinkedIn prospecting platform, **1M+ users**, team of 16 engineers, 2 EMs, 3 PMs, 2 designers, 2 QAs.
-  - **Automated data pipeline from production (MongoDB) to a Snowflake warehouse**, enriching and categorising **500M+ prospects and 1B+ actions**, used daily by the product and growth teams
-  - Designed **Prospect Finder**, keyword and filter vector search (Pinecone) across those **500M+ profiles**, with PM, designer and growth: **+80% conversion** at onboarding (A/B testing)
+  LinkedIn prospecting platform, **1M+ users**, **team of 16 engineers, 2 EMs, 3 PMs, 2 designers, 2 QAs**.
+  - Automated data pipeline from production (MongoDB) to a **Snowflake warehouse**, enriching and categorising **500M+ prospects and 1B+ actions**, used daily by the product and growth teams
+  - Designed **Prospect Finder**, keyword and filter vector search (Pinecone) across those **500M+ profiles**, with **PM, designer** and growth: **+80% conversion** at onboarding (A/B testing)
   - Shipped an **email prospecting service** (**×10 volume**) and a **native HubSpot integration**, designed with the **Engineering Manager**, on a **service foundation** (DAO, controllers, routes, middlewares) I co-defined
   - **Reviewed the team's pull requests**, **mentoring** (pair programming, onboarding) and **tech meetups** shared with the tech teams; weeks dedicated to support bugs, in pairs, handed over at the end of the week
 

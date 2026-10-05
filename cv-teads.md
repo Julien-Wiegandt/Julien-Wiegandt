@@ -11,20 +11,20 @@ Ingénieur full-stack : je conçois, livre et **monitore en production** des pro
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Expérience" width="22" /> Expériences Professionnelles
 
 - **[FOREVR](https://forevr.fr/r/teads)** · Fondateur & CEO · Montpellier, France · `Juillet 2026 - Aujourd'hui`
-  SaaS de mémoriaux numériques, **porté seul de bout en bout** : produit, design, développement, business et growth.
-  - Next.js/React/TypeScript, MongoDB, Stripe · **tests e2e Playwright** · **monitoré en production** (Sentry, Umami)
-  - **Routines IA** sur tout le cycle (plan, review, tests, prod) et **pipeline agentique autonome** : stratégie SEO via **MCP**, **10 articles/semaine** publiés, résolution auto des issues **Sentry**, rapports **Slack**
+  SaaS de mémoriaux numériques, porté seul de bout en bout : produit, design, développement, business et growth.
+  - **Next.js/React/TypeScript**, MongoDB, Stripe · **tests e2e Playwright** · **monitoré en production** (Sentry, Umami)
+  - **Routines IA** sur tout le cycle (plan, review, tests, prod) et **pipeline agentique autonome** : stratégie SEO via MCP, **10 articles/semaine** publiés, résolution auto des issues Sentry, rapports Slack
 
 - **[KAWAAK](https://kawaak.com)** · Tech Lead & Co-fondateur · Montpellier, France · `Novembre 2024 - Juillet 2026`
   SaaS de contenu LinkedIn par IA, construit de zéro avec : ML engineer et Growth Marketer.
-  - **+23K utilisateurs · +200K€ ARR · adopté par PayFit, Canva, Notion · 4.8/5 (150+ avis)**
+  - **+23K utilisateurs · +200K€ ARR · adopté par PayFit, Canva, Notion** · 4.8/5 (150+ avis)
   - Architecture full-stack **modulaire et scalable** : monorepo NX, React / Vite (TS strict), backend [express-zod-api](https://github.com/RobinTail/express-zod-api), MongoDB + Redis + BullMQ, AWS, orchestration multi-LLM, Sentry / PostHog / Mixpanel
-  - **Pilotage complet du projet**, **ownership de l'idée à la production**, en **équipe agile** (**weekly** CEO)
+  - **Ownership de l'idée à la production**, en **équipe agile** (**weekly** CEO)
 
 - **[WAALAXY](https://www.waalaxy.com)** · Software Engineer, Full-stack · Montpellier, France · `Mai 2022 - Novembre 2024`
-  Plateforme de prospection LinkedIn, **+1M utilisateurs**, équipe de 16 ingénieurs, 2 EM, 3 PM, 2 designers, 2 QA.
-  - **Pipeline de données automatisée de la production (MongoDB) vers un entrepôt Snowflake**, enrichissant et catégorisant **+500M de prospects et +1 milliard d'actions**, exploitée par les équipes produit et growth
-  - Conçu **Prospect Finder**, la recherche vectorielle (Pinecone) par mots-clés et filtres sur ces **+500M de profils**, avec PM, designer et growth : **+80% de conversion** à l'onboarding (A/B testing)
+  Plateforme de prospection LinkedIn, **+1M utilisateurs**, **équipe de 16 ingénieurs, 2 EM, 3 PM, 2 designers, 2 QA**.
+  - Pipeline de données automatisée de la production (MongoDB) vers un **entrepôt Snowflake**, enrichissant et catégorisant **+500M de prospects et +1 milliard d'actions**, exploitée par les équipes produit et growth
+  - Conçu **Prospect Finder**, la recherche vectorielle (Pinecone) par mots-clés et filtres sur ces **+500M de profils**, avec **PM, designer** et growth : **+80% de conversion** à l'onboarding (A/B testing)
   - Livré un **service de prospection email** (**×10 de volume**) et une **intégration native HubSpot**, conçus avec l'**Engineering Manager**, sur un **socle de services** (DAO, controllers, routes, middlewares) que j'ai co-défini
   - **Review des pull requests** de l'équipe, **mentorat** (pair programming, onboarding) et **tech meetups** ; support en binôme
 
