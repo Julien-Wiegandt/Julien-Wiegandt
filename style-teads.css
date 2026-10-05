@@ -1,0 +1,4 @@
+/* Surcouche propre aux CV Teads (cv-teads.md et resume-teads.md).
+   Leur page a de la marge : on respire davantage entre deux experiences
+   que les 3px du socle, qui sont le maximum tenable pour les CV PAVE. */
+body > ul > li + li { margin-top: 7px !important; }

@@ -12,8 +12,8 @@ Ingénieur full-stack : je conçois, livre et **monitore en production** des pro
 
 - **[FOREVR](https://forevr.fr/r/teads)** · Fondateur & CEO · Montpellier, France · `Juillet 2026 - Aujourd'hui`
   SaaS de mémoriaux numériques, **porté seul de bout en bout** : produit, design, développement, business et growth.
-  - Next.js / React / TypeScript, MongoDB, Stripe · **494 tests e2e Playwright** · **monitoré en production** (Sentry, Umami)
-  - **Routines IA** sur tout le cycle de dev et **pipeline agentique autonome** : stratégie SEO via **MCP**, **10 articles/semaine**, résolution auto des issues **Sentry**
+  - Next.js/React/TypeScript, MongoDB, Stripe · **tests e2e Playwright** · **monitoré en production** (Sentry, Umami)
+  - **Routines IA** sur tout le cycle (plan, review, tests, prod) et **pipeline agentique autonome** : stratégie SEO via **MCP**, **10 articles/semaine** publiés, résolution auto des issues **Sentry**, rapports **Slack**
 
 - **[KAWAAK](https://kawaak.com)** · Tech Lead & Co-fondateur · Montpellier, France · `Novembre 2024 - Juillet 2026`
   SaaS de contenu LinkedIn par IA, construit de zéro avec : ML engineer et Growth Marketer.
@@ -26,7 +26,7 @@ Ingénieur full-stack : je conçois, livre et **monitore en production** des pro
   - **Pipeline de données automatisée de la production (MongoDB) vers un entrepôt Snowflake**, enrichissant et catégorisant **+500M de prospects et +1 milliard d'actions**, exploitée par les équipes produit et growth
   - Conçu **Prospect Finder**, la recherche vectorielle (Pinecone) par mots-clés et filtres sur ces **+500M de profils**, avec PM, designer et growth : **+80% de conversion** à l'onboarding (A/B testing)
   - Livré un **service de prospection email** (**×10 de volume**) et une **intégration native HubSpot**, conçus avec l'**Engineering Manager**, sur un **socle de services** (DAO, controllers, routes, middlewares) que j'ai co-défini
-  - **Review des pull requests**, **mentorat** (pair programming, onboarding) et **tech meetups** ; support en binôme
+  - **Review des pull requests** de l'équipe, **mentorat** (pair programming, onboarding) et **tech meetups** ; support en binôme
 
 - **[KEYPOP](https://www.keypop.io)** · Fondateur & CEO · Montpellier, France · `2023 - 2024`
   App Electron (macOS / Windows / Linux) + extension Chrome : prompts IA en raccourcis clavier.

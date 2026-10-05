@@ -16,6 +16,7 @@ telephone ne ressort pas du texte extrait, ou une experience manque.
 | `cv.md` / `resume.md` | **Tronc commun** FR et EN. Base de verite. |
 | `cv-<cible>.md` | Variante d'une candidature **active**. Derivee de la base, supprimee quand le process est clos. |
 | `style.css` | Feuille unique de tous les CVs. Tout correctif de mise en page se fait ici. |
+| `style-<variante>.css` | Surcouche optionnelle, chargee apres `style.css` pour `cv-<variante>.md` et `resume-<variante>.md`. Sert quand une variante a de la place en bas de page et pas les autres : `style-teads.css` espace davantage les experiences, ce que les CV PAVE ne peuvent pas se permettre. |
 
 **Sens du flux : un correctif atterrit dans la base, puis on re-derive
 les variantes.** Jamais l'inverse — c'est comme ca que la base s'etait

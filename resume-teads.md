@@ -12,8 +12,8 @@ Full-stack engineer: I design, ship and **monitor in production** software that 
 
 - **[FOREVR](https://forevr.fr/r/teads)** · Founder & CEO · Montpellier, France · `July 2026 - Present`
   Digital memorial SaaS, **carried end to end on my own**: product, design, engineering, business, SEO/SEA and growth.
-  - Next.js / React / TypeScript, MongoDB, Stripe · **494 Playwright e2e tests** · **monitored in production** (Sentry, Umami)
-  - **AI routines** across the whole dev cycle and an **autonomous agentic pipeline**: SEO strategy over **MCP**, **10 articles/week**, **Sentry** issues resolved automatically
+  - Next.js/React/TypeScript, MongoDB, Stripe · **Playwright e2e tests** · **monitored in production** (Sentry, Umami)
+  - **AI routines** across the whole cycle (plan, review, tests, prod) and an **autonomous agentic pipeline**: SEO strategy over **MCP**, **10 articles/week** published, **Sentry** issues resolved automatically, **Slack** reports
 
 - **[KAWAAK](https://kawaak.com)** · Tech Lead & Co-founder · Montpellier, France · `November 2024 - July 2026`
   AI-powered LinkedIn content SaaS, built from scratch with: ML engineer and Growth Marketer.

@@ -8,9 +8,21 @@ src = open(sys.argv[1], encoding='utf-8').read()
 m = re.search(r'<style>.*?</style>', src, re.S)
 body_src = src[m.end():] if m else src
 
-css_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'style.css')
+here = os.path.dirname(os.path.abspath(__file__))
+css_path = os.path.join(here, 'style.css')
 if os.path.exists(css_path):
-    style = '<style>' + open(css_path, encoding='utf-8').read() + '</style>'
+    sheets = [open(css_path, encoding='utf-8').read()]
+    # 2. a variant may need a few pixels the others cannot afford: cv-teads.md
+    #    and resume-teads.md both pick up style-teads.css, appended after the
+    #    shared sheet so it wins. Without that file nothing changes, and a
+    #    variant whose page is already full is never touched by another's fix.
+    stem = os.path.basename(sys.argv[1])[:-3]
+    variant = stem.split('-', 1)[1] if '-' in stem else ''
+    if variant:
+        extra = os.path.join(here, 'style-%s.css' % variant)
+        if os.path.exists(extra):
+            sheets.append(open(extra, encoding='utf-8').read())
+    style = '<style>' + '\n'.join(sheets) + '</style>'
 elif m:
     style = m.group(0)
 else:
