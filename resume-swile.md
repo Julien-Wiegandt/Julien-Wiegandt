@@ -23,7 +23,7 @@ Full-stack engineer: I design, ship and **monitor in production** software that 
 
 - **[WAALAXY](https://www.waalaxy.com)** · Software Engineer, Full-stack · Montpellier, France · `May 2022 - November 2024`
   LinkedIn prospecting platform, **1M+ users**, team of 16 engineers, 2 EMs, 3 PMs, 2 designers, 2 QAs.
-  - **Automated data pipeline from production (MongoDB) to a Snowflake warehouse**, enriching and categorising **500M+ prospects and 1B+ actions** for analytics and targeting
+  - **Automated data pipeline from production (MongoDB) to a Snowflake warehouse**, enriching and categorising **500M+ prospects and 1B+ actions**, used daily by the product and growth teams
   - Designed **Prospect Finder**, keyword and filter vector search (Pinecone) across those **500M+ profiles**, with PM, designer and growth: **+80% conversion** at onboarding (A/B testing)
   - Shipped an **email prospecting service** (**×10 volume**) and a **native HubSpot integration**, designed with the **Engineering Manager**, on a **service foundation** (DAO, controllers, routes, middlewares) I co-defined
   - **Reviewed the team's pull requests**, **mentoring** (pair programming, onboarding) and **tech meetups** shared with the tech teams; weeks dedicated to support bugs, in pairs, handed over at the end of the week

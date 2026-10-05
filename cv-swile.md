@@ -23,7 +23,7 @@ Ingénieur full-stack : je conçois, livre et **monitore en production** des pro
 
 - **[WAALAXY](https://www.waalaxy.com)** · Software Engineer, Full-stack · Montpellier, France · `Mai 2022 - Novembre 2024`
   Plateforme de prospection LinkedIn, **+1M utilisateurs**, équipe de 16 ingénieurs, 2 EM, 3 PM, 2 designers, 2 QA.
-  - **Pipeline de données automatisée de la production (MongoDB) vers un entrepôt Snowflake**, enrichissant et catégorisant **+500M de prospects et +1 milliard d'actions** pour l'analyse et le ciblage
+  - **Pipeline de données automatisée de la production (MongoDB) vers un entrepôt Snowflake**, enrichissant et catégorisant **+500M de prospects et +1 milliard d'actions**, exploitée par les équipes produit et growth
   - Conçu **Prospect Finder**, la recherche vectorielle (Pinecone) par mots-clés et filtres sur ces **+500M de profils**, avec PM, designer et growth : **+80% de conversion** à l'onboarding (A/B testing)
   - Livré un **service de prospection email** (**×10 de volume**) et une **intégration native HubSpot**, conçus avec l'**Engineering Manager**, sur un **socle de services** (DAO, controllers, routes, middlewares) que j'ai co-défini
   - **Review des pull requests** de l'équipe, **mentorat** (pair programming, onboarding) et **tech meetups** de veille partagés aux équipes tech ; semaines dédiées aux bugs du support, en binôme, avec passation en fin de semaine
